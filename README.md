@@ -1,5 +1,7 @@
-# Landing Page
+# React meteor boilerplate
+Author: Lin Dong
 
+Date: Thu Feb 25 22:26:29 PST 2016
 ## Instructions
 
 1. Install [meteor](http://meteor.com)
